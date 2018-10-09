@@ -9,7 +9,7 @@ Download de volgende onderdelen specifiek voor jouw besturingssysteem en archite
 2. Download en installeer [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 3. Download en installeer [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 4. Download en installeer [minikube](https://github.com/kubernetes/minikube/releases)
-5. (optioneel voor bonus) Download en installeer Docker.
+5. Download en installeer Docker.
 
 ## Deel 1
 
